@@ -8,4 +8,6 @@ public class User {
     // more code on user page
 
     //.....
+
+    //finalize user page
 }
